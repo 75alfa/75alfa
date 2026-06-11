@@ -1,72 +1,40 @@
-Hi there, I'm Alfajiri Zihal 👋
+# Hi, I'm Alfajiri Zihal 👋
 
 Senior-level UX Designer & Systems Thinker
 
 I design user-centered digital products that align complex backend systems with highly intuitive front-end interfaces. With deep expertise in GovStack principles, accessibility (WCAG 2.2), and inclusive interface design, I help cross-functional squads translate complex business logic into scalable web and mobile ecosystems.
 
-Explore My Portfolio ↗ • Connect on LinkedIn ↗
+UX Designer building digital products across Government, Fintech, Healthcare, Insurance, and AI.
 
-📈 Impact Highlights
+### 🛠️ Tools & Skills
 
-Akieni (E-Payment Redesign): Reduced user flow steps by 30%, increased task completion by 45%, and boosted conversions by 18%.
+![Figma](https://img.shields.io/badge/Figma-000?logo=figma)
+![UX Design](https://img.shields.io/badge/UX-Design-blue)
+![Product Design](https://img.shields.io/badge/Product-Design-green)
+![Research](https://img.shields.io/badge/User-Research-orange)
+![Design Systems](https://img.shields.io/badge/Design-Systems-purple)
+![AI](https://img.shields.io/badge/AI-Products-red)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira)
+![Notion](https://img.shields.io/badge/Notion-000?logo=notion)
 
-National Invoicing (SFEC / PGSFEC): Served as Solo Designer to transform complex tax regulations into an intuitive national electronic invoicing flow.
+### 🚀 Current Focus
 
-Healthcare (CAMU): Designed a biometric, tablet-based verification system with offline enrollment capabilities for remote regions in Congo.
+- 💻 Digital Transformation Projects
+- 💳 Payment Systems
+- 🤖 AI-Powered Platforms
+- 📈 Product Management
 
-Polymarq: Led UX strategy and responsive admin setups, driving an 8% increase in monthly recurring design outcomes.
-
-🛠️ UX Strategy & Design Tokens
-
-# Design philosophy compiled into a structured framework
-designer:
-  name: "Alfajiri Zihal"
-  core_competency: "Systems Design, Information Architecture, Research"
-  accessibility: "WCAG 2.2 AA/AAA Compliant (Certified March 2025)"
-  design_principles:
-    - "Human-Centered Design First"
-    - "Early Developer Alignment"
-    - "Data-Driven Iteration"
+### 📊 GitHub Stats
 
 
-🎨 My Ecosystem & Toolkit
 
-⚙️ Favorite Tools & Environments
+### 🌍 Connect
 
-📊 UX Research & Discovery
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alfa_Zihal-blue?logo=linkedin)](YOUR_LINKEDIN_URL)
 
-Qualitative & Quantitative Methods: User Interviews, Usability Testing, Card Sorting, Information Architecture, Persona Profiling.
-
-Mapping & Strategy: Empathy Mapping, Site Mapping, Complex User Flows, Task Scenarios, Competitive Analysis, A/B Testing.
-
-📐 Product Design & Engineering Handoff
-
-Responsive Interfaces: Mobile App Design (iOS/Android), Responsive Web Platforms, Admin Dashboards.
-
-Systemic Consistency: Advanced Figma Design Systems, Interactive Micro-transitions, Accessibility (WCAG 2.2) implementation, Zeplin/Figma developer-ready handoff.
-
-🏆 Education & Certifications
-
-Design Accessibility for UX (WCAG 2.2) — Udemy (2025)
-
-UX (User Experience) Capstone Graduate — University of Michigan (2024)
-
-Product-Led Certification — Pendo (2023)
-
-Enterprise Design Thinking Practitioner — IBM (2022)
-
-Human-Computer Interaction (HCI) — The Interaction Design Foundation (2022-2023)
-
-Bachelor in Information and Technology — University of Kigali (2021)
-
-🎨 Selected Case Studies (Live Impact)
-
-CAMU Biometric System — Empowering inclusive universal health insurance via tablet-based UI and secure offline enrollments in remote regions.
-
-SFEC Invoicing Engine — Designing the official invoicing system of the Republic of Congo, converting heavy tax compliance logic into clean, user-friendly states.
-
-NSIA Assurance Congo Platform — An end-to-end digital insurance ecosystem featuring back-office management dashboards and client-facing mobile apps.
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:Aalfajiri75@gmail.com)
 
 📬 Let's Connect!
-
 Whether you want to discuss GovStack architectures, dynamic UX research methodologies, or collaborate on standardizing digital systems, I am always up for a chat.
+
+> Designing products that make complex systems simple.
