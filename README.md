@@ -17,7 +17,6 @@ Skills
 - 💻 Digital Transformation Projects
 - 💳 Payment Systems
 - 🤖 AI-Powered Platforms
-- 📈 Product Management
 
 
 
